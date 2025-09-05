@@ -24,3 +24,11 @@ The objective of this project is to analyze and visualize sales data using Power
 - Insights & Sharing – Identified sales trends, top products/regions, and published to Power BI Service.
  ##  Dashboard
 <img width="1153" height="644" alt="Screenshot 2025-09-05 201428" src="https://github.com/user-attachments/assets/26fbd78e-5ac7-4aaf-8677-83d8088e8491" />
+## Project Insights
+- Top-performing regions contribute the majority of total sales, highlighting market strengths.
+- Specific products/categories drive higher revenue and profit, useful for inventory planning.
+- Seasonal trends show peak sales periods, supporting demand forecasting.
+- High-value customers generate significant revenue, suggesting opportunities for loyalty programs.
+- Discount analysis reveals impact on profit margins, guiding pricing strategies.
+## Conclusion
+The Sales Dashboard provides a comprehensive view of business performance, enabling data-driven decisions. It helps identify strengths, address weak areas, and optimize strategies for revenue growth. By visualizing KPIs and trends in an interactive format, the dashboard ensures faster, smarter, and more informed decision-making for stakeholders.
