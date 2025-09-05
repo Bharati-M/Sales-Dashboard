@@ -14,3 +14,5 @@ The objective of this project is to analyze and visualize sales data using Power
 - What percentage of total revenue comes from repeat customers?
 - How do discounts impact profit margins?
 - Are we meeting our sales targets compared to forecasted values?
+## Dashboard Interaction
+- <a href="
