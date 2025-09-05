@@ -1,2 +1,3 @@
 # Sales-Dashboard
-This project is an interactive Power BI dashboard designed to analyze and visualize sales data. It provides key business insights to help in decision-making by tracking and monitoring important sales metrics.
+# Project Objective
+The objective of this project is to analyze and visualize sales data using Power BI to uncover actionable business insights.
