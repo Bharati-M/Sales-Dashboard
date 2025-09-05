@@ -15,4 +15,4 @@ The objective of this project is to analyze and visualize sales data using Power
 - How do discounts impact profit margins?
 - Are we meeting our sales targets compared to forecasted values?
 ## Dashboard Interaction
-- <a href="
+- <a href="https://github.com/Bharati-M/Sales-Dashboard/blob/main/Screenshot%202025-09-05%20201428.png">View Dashboard</a>
