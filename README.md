@@ -22,7 +22,7 @@ The objective of this project is to analyze and visualize sales data using Power
 - Measure Creation (DAX) – Created KPIs like Total Sales, Profit, and Average Order Value.
 - Data Visualization – Designed interactive dashboards with charts, slicers, and KPI cards.
 - Insights & Sharing – Identified sales trends, top products/regions, and published to Power BI Service.
- ##  Dashboard
+##  Dashboard
 <img width="1153" height="644" alt="Screenshot 2025-09-05 201428" src="https://github.com/user-attachments/assets/26fbd78e-5ac7-4aaf-8677-83d8088e8491" />
 ## Project Insights
 - Top-performing regions contribute the majority of total sales, highlighting market strengths.
